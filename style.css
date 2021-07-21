@@ -77,6 +77,20 @@ ul{
 }
 #social{
     text-decoration: none;
+    justify-content: center;
+    margin: 0 20px;
+    color: whitesmoke;
+    padding: 40px;
+    padding-top: 20px;
+}
+.fab {
+    justify-content: center;
+    color: whitesmoke;
+    margin: 15px;
+    padding-inline: 95px;
+}
+#social:hover{
+    color:#6786b8; 
 }
 #q{
     font-size: 50px;
@@ -89,4 +103,12 @@ ul{
 }
 #col{
     color: #31415a;
+}
+footer{
+    background-color: #333333;
+    /* background-color: rgb(0, 140, 255); */
+    width: 100%;
+    padding: 20px;
+    font-family: "Arial";
+    color: white;
 }
